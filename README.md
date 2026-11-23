@@ -5,7 +5,7 @@ This repository contains Python programming practice questions and solutions bas
 
 ## Project Objectives
 - Strengthen Python programming fundamentals.
-- Practice coding challenges and problem-solving.
+- Practice coding challenges and problem solving.
 - Understand Python data types and operators.
 - Develop logical thinking using loops and conditions.
 - Practice Python data structures and functions.
@@ -50,4 +50,4 @@ This repository contains Python programming practice questions and solutions bas
 - Improved coding and logical problem-solving skills.
 
 ## Conclusion
-This repository demonstrates continuous Python programming practice through HackerRank challenges and solutions, building a foundation for data analytics, automation, and data engineering.
+This repository demonstrates continuous Python programming practice through HackerRank challenges and solutions, building a foundation for data analytics, automation and data engineering.
